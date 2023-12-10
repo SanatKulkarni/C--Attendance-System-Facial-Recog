@@ -8,3 +8,8 @@ This C++ program is an Attendance System that uses OpenCV for face detection to 
 2) Polymorphism
 3) Inheritance
 4) Abstraction
+
+# Dependencies of the Project
+
+OpenCV Library Version 4.5.5
+Visual Studio 2022 (Development Environment for C++)
